@@ -1,0 +1,1 @@
+hero.jpg.jfif ve dukkan.jpg.jfif dosyalarinizi images klasorune kopyalayin.
